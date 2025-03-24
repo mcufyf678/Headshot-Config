@@ -1,8 +1,8 @@
-# Free Fire Headshot Config File
+# Free Fire max Headshot Config File
 
 Free Fire is known for its large player base. One of the most important skills in Free Fire is the ability to land headshots. Headshots are instant kills and they can give you a significant advantage in battle.
 
-There are a few different ways to improve your headshot accuracy in Free Fire. One way is to practice your aim. You can do this by playing against bots or by practicing in the training mode. Another way is a headshot config file.
+There are a few different ways to drag  headshot accuracy in Free Fire. One way is to practice your aim. You can do this bymobile pannel or by practicing in the training mode. Another way is a headshot config file.
 
 # What is a Headshot Config File?
 
